@@ -1,0 +1,81 @@
+/*the ajax loading icon*/
+.umloading {width:100%;height:20px;background:rgba(255, 255, 255, 0.8) url('ajax_loader.gif') no-repeat 50% 50%;}
+/*the form div*/
+#uwpqsf_id{border:1px outset #666661;width: 250px;background-color:#F2F2E6;font: 12px/17px Arial,Helvetica,sans-serif;margin: 0 auto}
+/*Form title*/
+.uform_title{font-weight:bold!important;text-align:center;margin:auto 0 auto 0;margin-top: 10px;text-transform: uppercase;font-size: 15px}
+.uwpqsf_class{width:100%;margin-bottom:5px;clear:both}
+/*label for each field*/
+.uwpqsf_class > span[class*='taxolabel-'], .uwpqsf_class > span[class*='cmflabel-']{float:left;padding:5px;font-weight:bold !important;clear:both;width:100%;color: #666}
+/*dropdown*/
+.uwpqsf_class select {width:95%;margin-left:2%;margin-right:0%;border: 1px solid #E1E1E1;border-radius: 4px }
+
+/*taxonomy and meta field radio OPTIONS*/
+.uwpqsf_class > label{float:left;width:100%;padding: 5px;color: #666;font-weight: bold}
+/*Checkboxes*/
+[class*='tax-check-'] label,[class*='cmf-check-'] label {float:left;width:50%;}
+
+/*search button*/
+.uwpqsf_submit{text-align:center;margin-bottom:15px;}
+/*keyword search label*/
+.uwpqsf_class-keyword{padding:5px;font-weight:bold !important;}
+/*text input for keyword*/
+input#uwpqsf_id_key{width:94%;margin-left:2%;margin-right:0%}
+
+/*Pagination*/
+.uwpqsfpagi{text-align:center;margin-top:15px;margin-bottom:15px;clear:both;width:100%}
+
+a.upagievent{padding-left: 12px; padding-right: 12px; height: 25px; line-height: 25px; display: inline-block; 
+	text-align: center; 
+	}
+span.upagicurrent{padding-left: 12px; padding-right: 12px; height: 25px; line-height: 25px; display: inline-block; 
+	text-align: center;color:#000}
+#uwpqsf_id input{border-radius: 4px;background-color: #FFFFFF;border: 1px solid #E1E1E1 }
+.not_found {margin-top:15px;color: #ff0000 }
+/*input#uwpqsf_id_btn {width:auto; height:26px; color:#fff; padding:0 2px; background:url(button.png) repeat-x 0 0; cursor:pointer; border:1px solid #5FABE7; font:10px/26px Tahoma, Arial, Helvetica, sans-serif; font-weight:bold; text-transform:uppercase; letter-spacing:1px; vertical-align:middle;}*/
+.usearchbtn {
+    -moz-box-shadow:inset 1px 1px 3px 0px #cae3fc;
+    -webkit-box-shadow:inset 1px 1px 3px 0px #cae3fc;
+    box-shadow:inset 1px 1px 3px 0px #cae3fc;
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #4197ee) );
+    background:-moz-linear-gradient( center top, #79bbff 5%, #4197ee 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#4197ee');
+    background-color:#79bbff;
+    -webkit-border-top-left-radius:16px;
+    -moz-border-radius-topleft:16px;
+    border-top-left-radius:16px;
+    -webkit-border-top-right-radius:16px;
+    -moz-border-radius-topright:16px;
+    border-top-right-radius:16px;
+    -webkit-border-bottom-right-radius:16px;
+    -moz-border-radius-bottomright:16px;
+    border-bottom-right-radius:16px;
+    -webkit-border-bottom-left-radius:16px;
+    -moz-border-radius-bottomleft:16px;
+    border-bottom-left-radius:16px;
+    text-indent:0px;
+    border:1px solid #469df5;
+    display:inline-block;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:15px;
+    font-weight:bold;
+    font-style:italic;
+    height:38px;
+    line-height:38px;
+    width:86px;
+    text-decoration:none;
+    text-align:center;
+    text-shadow:1px 1px 0px #287ace;
+    cursor: pointer;
+}
+.usearchbtn:hover {
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #4197ee), color-stop(1, #79bbff) );
+    background:-moz-linear-gradient( center top, #4197ee 5%, #79bbff 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#4197ee', endColorstr='#79bbff');
+    background-color:#4197ee;
+}.usearchbtn:active {
+     position:relative;
+     top:1px;
+ }
+ h1.result{margin-top: 20px}

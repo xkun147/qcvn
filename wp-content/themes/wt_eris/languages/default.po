@@ -1,0 +1,1433 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: eris\n"
+"POT-Creation-Date: 2012-10-23 20:55+0200\n"
+"PO-Revision-Date: 2012-10-23 20:56+0200\n"
+"Last-Translator: Sami <themes@gazpo.com>\n"
+"Language-Team: WellThemes <info@wellthemes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:18
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: ../404.php:22
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching, or one of the links below, can help."
+msgstr ""
+
+#: ../archive.php:27
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:29
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:31
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:33
+msgid "Blog Archives"
+msgstr ""
+
+#: ../archive.php:56 ../author.php:73 ../category.php:50 ../search.php:40
+#: ../tag.php:42
+msgid "Nothing Found"
+msgstr ""
+
+#: ../archive.php:60 ../author.php:77 ../category.php:54 ../tag.php:46
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: ../author.php:30
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../author.php:50 ../content-page.php:43 ../content-single.php:44
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../category.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../comments.php:18
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:54
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-excerpt.php:21 ../framework/widgets/widget_carousel.php:71
+#: ../framework/widgets/widget_popular_posts.php:70
+#: ../framework/widgets/widget_recent_posts.php:71
+#: ../framework/widgets/widget_recent_posts_text.php:64
+#: ../includes/feat-carousel.php:39 ../includes/feat-carousel.php:47
+#: ../includes/feat-cat1.php:41 ../includes/feat-cat1.php:92
+#: ../includes/feat-cat2.php:41 ../includes/feat-cat2.php:92
+#: ../includes/feat-cat3.php:41 ../includes/feat-cat3.php:92
+#: ../includes/feat-cat4.php:41 ../includes/feat-cat4.php:92
+#: ../includes/feat-cat5.php:41 ../includes/feat-cat5.php:92
+#: ../includes/feat-singlecol1.php:51 ../includes/feat-singlecol1.php:98
+#: ../includes/feat-singlecol2.php:50 ../includes/feat-singlecol2.php:98
+#: ../includes/onecol-feat1.php:49 ../includes/onecol-feat1.php:93
+#: ../includes/onecol-feat2.php:49 ../includes/onecol-feat2.php:93
+#: ../includes/related-posts.php:52
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: ../content-excerpt.php:38 ../content-page.php:20
+#: ../includes/feat-cat1.php:56 ../includes/feat-cat1.php:106
+#: ../includes/feat-cat2.php:56 ../includes/feat-cat2.php:106
+#: ../includes/feat-cat3.php:56 ../includes/feat-cat3.php:106
+#: ../includes/feat-cat4.php:56 ../includes/feat-cat4.php:106
+#: ../includes/feat-cat5.php:56 ../includes/feat-cat5.php:106
+#: ../includes/feat-singlecol1.php:66 ../includes/feat-singlecol1.php:113
+#: ../includes/feat-singlecol2.php:66 ../includes/feat-singlecol2.php:113
+#: ../includes/onecol-feat1.php:66 ../includes/onecol-feat1.php:109
+#: ../includes/onecol-feat2.php:66 ../includes/onecol-feat2.php:109
+msgid "no comments"
+msgstr ""
+
+#: ../content-excerpt.php:38 ../content-page.php:20
+#: ../includes/feat-cat1.php:56 ../includes/feat-cat1.php:106
+#: ../includes/feat-cat2.php:56 ../includes/feat-cat2.php:106
+#: ../includes/feat-cat3.php:56 ../includes/feat-cat3.php:106
+#: ../includes/feat-cat4.php:56 ../includes/feat-cat4.php:106
+#: ../includes/feat-cat5.php:56 ../includes/feat-cat5.php:106
+#: ../includes/feat-singlecol1.php:66 ../includes/feat-singlecol1.php:113
+#: ../includes/feat-singlecol2.php:66 ../includes/feat-singlecol2.php:113
+#: ../includes/onecol-feat1.php:66 ../includes/onecol-feat1.php:109
+#: ../includes/onecol-feat2.php:66 ../includes/onecol-feat2.php:109
+msgid "1 comment"
+msgstr ""
+
+#: ../content-excerpt.php:38 ../content-page.php:20
+#: ../includes/feat-cat1.php:56 ../includes/feat-cat1.php:106
+#: ../includes/feat-cat2.php:56 ../includes/feat-cat2.php:106
+#: ../includes/feat-cat3.php:56 ../includes/feat-cat3.php:106
+#: ../includes/feat-cat4.php:56 ../includes/feat-cat4.php:106
+#: ../includes/feat-cat5.php:56 ../includes/feat-cat5.php:106
+#: ../includes/feat-singlecol1.php:66 ../includes/feat-singlecol1.php:113
+#: ../includes/feat-singlecol2.php:66 ../includes/feat-singlecol2.php:113
+#: ../includes/onecol-feat1.php:66 ../includes/onecol-feat1.php:109
+#: ../includes/onecol-feat2.php:66 ../includes/onecol-feat2.php:109
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../content-page.php:28 ../content-single.php:28 ../image.php:85
+#: ../page-archives.php:69 ../page-archivesfull.php:67
+msgid "Pages:"
+msgstr ""
+
+#: ../content-page.php:47 ../content-single.php:48
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content-single.php:20 ../framework/widgets/widget_popular_posts.php:84
+#: ../framework/widgets/widget_recent_posts.php:85
+#: ../framework/widgets/widget_recent_posts_text.php:78
+msgid "0"
+msgstr ""
+
+#: ../content-single.php:20 ../framework/widgets/widget_popular_posts.php:84
+#: ../framework/widgets/widget_recent_posts.php:85
+#: ../framework/widgets/widget_recent_posts_text.php:78
+msgid "1"
+msgstr ""
+
+#: ../content-single.php:20 ../framework/widgets/widget_popular_posts.php:84
+#: ../framework/widgets/widget_recent_posts.php:85
+#: ../framework/widgets/widget_recent_posts_text.php:78
+msgid "%"
+msgstr ""
+
+#: ../footer.php:27 ../sidebar-left.php:26 ../sidebar-right.php:31
+msgid "Popular Categories"
+msgstr ""
+
+#: ../header.php:49
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../image.php:25
+msgid "Original Image size: "
+msgstr ""
+
+#: ../image.php:28
+#, php-format
+msgid "<a href=\"%3$s\" rel=\"lightbox\">%1$s &times; %2$s</a>"
+msgstr ""
+
+#: ../image.php:92
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../image.php:93
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../image.php:97
+#, php-format
+msgid "Return to %s"
+msgstr ""
+
+#: ../index.php:80 ../framework/settings/theme-options.php:407
+#: ../includes/feat-singlecol1.php:32 ../includes/feat-singlecol2.php:31
+#: ../includes/onecol-feat1.php:33 ../includes/onecol-feat2.php:33
+msgid "Latest Posts"
+msgstr ""
+
+#: ../page-archives.php:34 ../page-archivesfull.php:35
+msgid "Last 10 Posts"
+msgstr ""
+
+#: ../page-archives.php:44 ../page-archivesfull.php:45
+msgid "Most Popular Tags:"
+msgstr ""
+
+#: ../page-archives.php:52 ../page-archivesfull.php:60
+msgid "Archives by Category:"
+msgstr ""
+
+#: ../page-archives.php:59 ../page-archivesfull.php:50
+msgid "Archives By Month:"
+msgstr ""
+
+#: ../page-archives.php:76 ../page-archivesfull.php:74
+msgid "Search Archives:"
+msgstr ""
+
+#: ../page-contact.php:58
+msgid "Please enter code correctly."
+msgstr ""
+
+#: ../page-contact.php:100
+msgid "Please enter the code you see above."
+msgstr ""
+
+#: ../page-contact.php:102 ../framework/widgets/widget_contact_form.php:164
+msgid "Please enter your "
+msgstr ""
+
+#: ../page-contact.php:112 ../framework/widgets/widget_contact_form.php:172
+msgid "You entered an invalid"
+msgstr ""
+
+#: ../page-contact.php:144
+msgid "<strong>Thank you.</strong> Your email was sent successfully."
+msgstr ""
+
+#: ../page-contact.php:149 ../framework/widgets/widget_contact_form.php:150
+msgid "Please correct the following errors and try again."
+msgstr ""
+
+#: ../page-contact.php:155 ../framework/widgets/widget_contact_form.php:198
+msgid "Name"
+msgstr ""
+
+#: ../page-contact.php:163 ../framework/widgets/widget_contact_form.php:67
+#: ../framework/widgets/widget_contact_form.php:207
+msgid "Email"
+msgstr ""
+
+#: ../page-contact.php:171 ../framework/widgets/widget_contact_form.php:215
+msgid "Message"
+msgstr ""
+
+#: ../page-contact.php:179
+msgid "Verification Code"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../search.php:44
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../sidebar-left.php:18 ../sidebar-right.php:23
+msgid "Search"
+msgstr ""
+
+#: ../sidebar-left.php:31 ../sidebar-right.php:36
+msgid "Archives"
+msgstr ""
+
+#: ../sidebar-right.php:16
+msgid "Eris Premium Wordpress Theme"
+msgstr ""
+
+#: ../sidebar-right.php:17
+msgid ""
+"Thank you for using this theme. If you have questions, please feel free to "
+"contact us."
+msgstr ""
+
+#: ../tag.php:17
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../framework/functions.php:67
+msgid "Primary Menu"
+msgstr ""
+
+#: ../framework/functions.php:68
+msgid "Top Menu"
+msgstr ""
+
+#: ../framework/functions.php:127
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../framework/functions.php:136
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../framework/functions.php:138 ../framework/functions.php:148
+msgid "An optional widget area for your site footer"
+msgstr ""
+
+#: ../framework/functions.php:146
+msgid "Footer Area"
+msgstr ""
+
+#: ../framework/functions.php:182
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../framework/functions.php:183 ../framework/functions.php:221
+msgid "Edit"
+msgstr ""
+
+#: ../framework/functions.php:189
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../framework/functions.php:203
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../framework/functions.php:207
+msgid "Reply"
+msgstr ""
+
+#: ../framework/functions.php:221
+msgid "Pingback:"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:63
+#: ../framework/settings/theme-options.php:82
+msgid "Theme Options"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:86
+msgid "Eris Theme"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:89
+msgid "http://forums.wellthemes.com/"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:89
+msgid "Theme Support"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:104
+msgid "General"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:105
+msgid "Hompepage"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:106
+msgid "Posts and Archives"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:107
+#: ../framework/settings/theme-options.php:520
+msgid "Styles"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:108
+#: ../framework/settings/theme-options.php:592
+msgid "Typography"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:109
+msgid "SEO"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:110
+msgid "Header and Footer"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:111
+msgid "Reset"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:118
+msgid "Theme settings updated successfully"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:128
+msgid "General Settings"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:137
+#: ../framework/settings/theme-options.php:1026
+msgid "Header Settings"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:162
+msgid "Custom RSS URL"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:164
+msgid ""
+"Enter full URL of RSS Feeds link starting with <strong>http:// </strong>. "
+"Leave blank to use default RSS Feeds."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:167
+msgid "Social Media Profiles"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:170
+msgid "Twitter Account"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:172
+msgid ""
+"Enter full URL of your twitter profile. Leave blank if you don't want to "
+"display."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:176
+msgid "Facebook Account"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:178
+msgid ""
+"Enter full URL of your Facebook profile. Leave blank if you don't want to "
+"display."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:182
+msgid "Contact Page URL"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:184
+msgid ""
+"Enter full URL of your contact page. Leave blank if you don't want to "
+"display."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:187
+msgid "Contact Form"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:190
+msgid "Email Address"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:192
+msgid ""
+"Enter the email address where you wish to receive the contact form messages."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:196
+msgid "Email Subject"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:198
+msgid "Enter the subject of the email."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:205
+msgid "Homepage Settings"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:214
+msgid "Top Header Bar"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:216
+msgid "Enable Top Header Bar"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:218
+msgid "Check to enable the top hearder bar."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:221
+msgid "Carousel Settings"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:224
+msgid "Enable Carousel"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:226
+msgid "Check to enable the carousel on homepage."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:230
+msgid "Carousel Category"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:235
+#: ../framework/settings/theme-options.php:258
+#: ../framework/settings/theme-options.php:281
+#: ../framework/settings/theme-options.php:296
+#: ../framework/settings/theme-options.php:314
+#: ../framework/settings/theme-options.php:329
+#: ../framework/settings/theme-options.php:344
+#: ../framework/settings/theme-options.php:359
+#: ../framework/settings/theme-options.php:374
+#: ../framework/settings/theme-options.php:397
+msgid "--none--"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:241
+msgid ""
+"Select the category for the carousel. Select <strong>none</strong> to show "
+"latest posts."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:244
+msgid "Slider Settings"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:247
+msgid "Enable Slider"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:249
+#: ../framework/settings/theme-options.php:272
+msgid "Check to enable the slider on homepage."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:253
+msgid "Slider Category"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:264
+msgid ""
+"Select the category for the slider. Select <strong>none</strong> to show "
+"latest posts."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:267
+msgid "Single Column Featured Categories Settings"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:270
+msgid "Enable Single Column Featured Cateogories"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:276
+msgid "Left Category"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:287
+msgid ""
+"Select the left side category. Select <strong>none</strong> to show latest "
+"posts."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:291
+msgid "Right Category"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:302
+msgid ""
+"Select the right side category. Select <strong>none</strong> to show latest "
+"posts."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:306
+msgid "Featured Categories Settings"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:309
+msgid "Featured Category 1"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:320
+msgid ""
+"Select the first featured category. Select <strong>none</strong> to hide."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:324
+msgid "Featured Category 2"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:335
+msgid ""
+"Select the second featured category. Select <strong>none</strong> to hide."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:339
+msgid "Featured Category 3"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:350
+msgid ""
+"Select the third featured category. Select <strong>none</strong> to hide."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:354
+msgid "Featured Category 4"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:365
+msgid ""
+"Select the forth featured category. Select <strong>none</strong> to hide."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:369
+msgid "Featured Category 5"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:380
+msgid ""
+"Select the fifth featured category. Select <strong>none</strong> to hide."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:383
+msgid "Featured Image Gallery"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:386
+msgid "Enable Gallery"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:388
+msgid "Check to enable the featured image gallery on homepage."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:392
+msgid "Gallery Category"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:403
+msgid ""
+"Select the category for the gallery. Select <strong>none</strong> to show "
+"images from latest posts."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:410
+msgid "Enable Posts List"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:412
+msgid "Check to enable the latest posts list on homepage."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:420
+msgid "Posts and Archive Settings"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:429
+msgid "Post Settings"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:432
+#: ../framework/settings/theme-options.php:452
+msgid "Show Author Information"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:434
+msgid "Check if you want to display author information below single posts."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:438
+msgid "Show Related Posts"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:440
+msgid "Check if you want to display related posts below single posts."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:444
+msgid "Show Social Media"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:446
+msgid "Check if you want to display social media below single posts."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:449
+msgid "Page Settings"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:454
+msgid "Check if you want to display author information on pages."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:458
+msgid "Enable Post Meta on Pages"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:460
+msgid "Check if you want to display post meta data on pages."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:464
+msgid "Enable Comments on Pages"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:466
+msgid "Check if you want to enable comments on the pages."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:470
+msgid "Show Social Media on Pages"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:472
+msgid "Check if you want to display social media on pages."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:475
+msgid "Images Settings"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:478
+msgid "Enable Post Meta on Images"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:480
+msgid "Check if you want to display post meta data on image pages."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:484
+msgid "Enable Comments on Images"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:486
+msgid "Check if you want to enable comments on the image pages."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:490
+msgid "Show Social Media on Images"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:492
+msgid "Check if you want to display social media on Images."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:495
+msgid "Archive Settings"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:498
+msgid "Display Category Description"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:500
+msgid "Check if you want to display category description in archive."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:504
+msgid "Display Tag Description"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:506
+msgid "Check if you want to display tag information in archive."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:510
+msgid "Display Author Description"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:512
+msgid "Check if you want to display author informationin archive."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:529
+msgid "Default Background Images"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:548
+msgid "Upload Custom Backgroud"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:557
+msgid "Use Background Color"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:559
+msgid "Background Color"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:562
+msgid "Select background color."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:565
+msgid "Theme Color Schemes"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:568
+msgid "Primary Color"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:571
+msgid "Select primary color for the theme."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:575
+msgid "Secondary Color"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:578
+msgid "Select secondary color for the theme."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:581
+msgid "Custom CSS Styles"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:583
+msgid "CSS Code"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:585
+msgid "You can enter custom CSS code. It will overwrite the default style."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:602
+msgid "Headings"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:605
+msgid "Heading 1"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:644
+msgid "Select font style for Heading 1."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:649
+msgid "Heading 2"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:688
+msgid "Select font style for Heading 2."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:692
+msgid "Heading 3"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:731
+msgid "Select font style for Heading 3."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:735
+msgid "Heading 4"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:773
+msgid "Select font style for Heading 4."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:777
+msgid "Heading 5"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:816
+msgid "Select font style for Heading 5."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:820
+msgid "Heading 6"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:859
+msgid "Select font style for Heading 6."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:862
+msgid "Text Font Styles"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:865
+msgid "Text"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:895
+msgid ""
+"Select font style for the text. From left to right: Font Size, Font Style, "
+"Line Height"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:899
+msgid "Font"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:902
+msgid "Headings Font"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:911
+msgid "Select font for Headings."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:915
+msgid "Text Font"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:924
+msgid "Select font for Text."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:927
+msgid "Color Schemes"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:930
+msgid "Headings Color"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:933
+msgid "Select the headings color."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:937
+msgid "Text Color"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:940
+msgid "Select the text color."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:944
+msgid "Links Color"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:947
+msgid "Select the links color."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:951
+msgid "Links Hover Color"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:954
+msgid "Select links hover color."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:958
+msgid "Footer Headings Color"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:961
+msgid "Select the footer headings color."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:965
+msgid "Footer Text Color"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:968
+msgid "Select the footer text color."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:975
+msgid "SEO Settings"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:985
+msgid "Default Meta Settings"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:988
+msgid "Default Meta Keywords"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:990
+msgid "Add default meta keywords. Separate keywords with commas."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:994
+msgid "Default Meta Description"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:996
+msgid "Add default meta description."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:999
+msgid "Site Verification"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:1002
+msgid "Google Site Verification"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:1004
+msgid "Enter your ID only."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:1008
+msgid "Bing Site Verification"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:1010
+msgid ""
+"Enter the ID only. It will be verified by <strong>Yahoo</strong> as well."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:1018
+msgid "Header and Footer Settings"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:1028
+msgid "Header 468px Ad Code."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:1030
+msgid "Enter the code the header ad."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:1034
+msgid "Other Header Code."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:1036
+msgid ""
+"You can add any code eg. Google Analytics. It will appear in <strong>head</"
+"strong> section."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:1039
+msgid "Footer Settings"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:1041
+msgid "Footer Left Text."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:1043
+msgid "Enter the footer left side text."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:1047
+msgid "Footer Right Text."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:1049
+msgid "Enter the footer right side text."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:1053
+msgid "Footer Code"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:1055
+msgid ""
+"You can add any code eg. Google Analytics. It will appear in <strong>footer</"
+"strong> section."
+msgstr ""
+
+#: ../framework/settings/theme-options.php:1064
+msgid "Reset Theme Settings"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:1073
+msgid "Reset Settings"
+msgstr ""
+
+#: ../framework/settings/theme-options.php:1085
+msgid "Save Settings"
+msgstr ""
+
+#: ../framework/widgets/widget_adsblock.php:34
+msgid "This widget allows to place upto 4 ads block in sidebar."
+msgstr ""
+
+#: ../framework/widgets/widget_adsblock.php:37
+msgid "Well Themes: Small Ads Block"
+msgstr ""
+
+#: ../framework/widgets/widget_adsblock.php:144
+#: ../framework/widgets/widget_carousel.php:114
+#: ../framework/widgets/widget_flickr.php:99
+#: ../framework/widgets/widget_popular_posts.php:108
+#: ../framework/widgets/widget_recent_comments.php:102
+#: ../framework/widgets/widget_recent_posts.php:109
+#: ../framework/widgets/widget_recent_posts_text.php:101
+#: ../framework/widgets/widget_recent_tags.php:87
+#: ../framework/widgets/widget_social_links.php:126
+#: ../framework/widgets/widget_subscribers_count.php:162
+#: ../framework/widgets/widget_twitter.php:115
+#: ../framework/widgets/widget_video.php:72
+msgid "Title:"
+msgstr ""
+
+#: ../framework/widgets/widget_adsblock.php:150
+msgid "Ad 1 image url:"
+msgstr ""
+
+#: ../framework/widgets/widget_adsblock.php:156
+msgid "Ad 1 link url:"
+msgstr ""
+
+#: ../framework/widgets/widget_adsblock.php:162
+msgid "Ad 2 image url:"
+msgstr ""
+
+#: ../framework/widgets/widget_adsblock.php:168
+msgid "Ad 2 link url:"
+msgstr ""
+
+#: ../framework/widgets/widget_adsblock.php:174
+msgid "Ad 3 image url:"
+msgstr ""
+
+#: ../framework/widgets/widget_adsblock.php:180
+msgid "Ad 3 link url:"
+msgstr ""
+
+#: ../framework/widgets/widget_adsblock.php:186
+msgid "Ad 4 image url:"
+msgstr ""
+
+#: ../framework/widgets/widget_adsblock.php:192
+msgid "Ad 4 link url:"
+msgstr ""
+
+#: ../framework/widgets/widget_adsingle.php:76
+msgid "Link Url:"
+msgstr ""
+
+#: ../framework/widgets/widget_adsingle.php:81
+msgid "Image URL:"
+msgstr ""
+
+#: ../framework/widgets/widget_carousel.php:119
+msgid "Filter by Category:"
+msgstr ""
+
+#: ../framework/widgets/widget_carousel.php:130
+msgid "Number of posts:"
+msgstr ""
+
+#: ../framework/widgets/widget_contact_form.php:33
+msgid "Displays contact form in the sidebar or footer."
+msgstr ""
+
+#: ../framework/widgets/widget_contact_form.php:36
+msgid "Well Themes: Contact Form"
+msgstr ""
+
+#: ../framework/widgets/widget_contact_form.php:62
+msgid "Title"
+msgstr ""
+
+#: ../framework/widgets/widget_contact_form.php:144
+#: ../framework/widgets/widget_contact_form.php:183
+msgid "Thank you. Your message was sent successfully."
+msgstr ""
+
+#: ../framework/widgets/widget_facebook.php:107
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: ../framework/widgets/widget_facebook.php:112
+msgid "Width:"
+msgstr ""
+
+#: ../framework/widgets/widget_facebook.php:117
+msgid "Color Scheme:"
+msgstr ""
+
+#: ../framework/widgets/widget_facebook.php:126
+msgid "Show faces"
+msgstr ""
+
+#: ../framework/widgets/widget_facebook.php:131
+msgid "Show stream"
+msgstr ""
+
+#: ../framework/widgets/widget_facebook.php:136
+msgid "Show facebook header"
+msgstr ""
+
+#: ../framework/widgets/widget_flickr.php:101
+msgid "Flickr User ID:"
+msgstr ""
+
+#: ../framework/widgets/widget_flickr.php:103
+msgid "Number of images:"
+msgstr ""
+
+#: ../framework/widgets/widget_pinterest.php:35
+msgid "Displays the recent pins from pinterest."
+msgstr ""
+
+#: ../framework/widgets/widget_pinterest.php:38
+msgid "Well Themes: Pinterest"
+msgstr ""
+
+#: ../framework/widgets/widget_pinterest.php:150
+msgid "Widget Title:"
+msgstr ""
+
+#: ../framework/widgets/widget_pinterest.php:154
+msgid "Pinterest Username:"
+msgstr ""
+
+#: ../framework/widgets/widget_pinterest.php:158
+msgid "Specific Board (optional):"
+msgstr ""
+
+#: ../framework/widgets/widget_pinterest.php:162
+msgid "Number of Pins To Show:"
+msgstr ""
+
+#: ../framework/widgets/widget_pinterest.php:174
+msgid "Show \"Follow Me\" Button?:"
+msgstr ""
+
+#: ../framework/widgets/widget_popular_posts.php:33
+msgid "Displays the most popular posts with thumbnails in the sidebar."
+msgstr ""
+
+#: ../framework/widgets/widget_popular_posts.php:36
+msgid "Well Themes: Popular Posts"
+msgstr ""
+
+#: ../framework/widgets/widget_popular_posts.php:111
+#: ../framework/widgets/widget_recent_comments.php:105
+#: ../framework/widgets/widget_recent_posts.php:112
+#: ../framework/widgets/widget_recent_posts_text.php:104
+#: ../framework/widgets/widget_recent_tags.php:90
+msgid "How many entries to display?"
+msgstr ""
+
+#: ../framework/widgets/widget_popular_posts.php:114
+#: ../framework/widgets/widget_recent_posts.php:115
+#: ../framework/widgets/widget_recent_posts_text.php:107
+msgid ""
+"Display specific categories? Enter category ids separated with a comma (e.g. "
+"- 1, 3, 8)"
+msgstr ""
+
+#: ../framework/widgets/widget_recent_comments.php:33
+msgid "Displays the recent comments with thumbnails."
+msgstr ""
+
+#: ../framework/widgets/widget_recent_comments.php:36
+msgid "Well Themes: Recent Comments"
+msgstr ""
+
+#: ../framework/widgets/widget_recent_comments.php:80
+msgid " ago"
+msgstr ""
+
+#: ../framework/widgets/widget_recent_posts.php:33
+msgid "Displays the recent posts with thumbnails. Suitable for sidebar only."
+msgstr ""
+
+#: ../framework/widgets/widget_recent_posts.php:36
+msgid "Well Themes: Recent Posts"
+msgstr ""
+
+#: ../framework/widgets/widget_recent_posts_text.php:33
+msgid "Displays the recent posts without thumbnails."
+msgstr ""
+
+#: ../framework/widgets/widget_recent_posts_text.php:36
+msgid "Well Themes: Recent Posts Text"
+msgstr ""
+
+#: ../framework/widgets/widget_recent_tags.php:33
+msgid "Displays the recent tags with the post count."
+msgstr ""
+
+#: ../framework/widgets/widget_recent_tags.php:36
+msgid "Well Themes: Recent Tags"
+msgstr ""
+
+#: ../framework/widgets/widget_recent_tags.php:66
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../framework/widgets/widget_social_links.php:35
+msgid "Displays the social media links. Suitable for sidebar and footer."
+msgstr ""
+
+#: ../framework/widgets/widget_social_links.php:38
+msgid "Well Themes: Social Links"
+msgstr ""
+
+#: ../framework/widgets/widget_social_links.php:62
+msgid "Follow us on twitter"
+msgstr ""
+
+#: ../framework/widgets/widget_social_links.php:62
+msgid "Follow us on Twitter."
+msgstr ""
+
+#: ../framework/widgets/widget_social_links.php:68
+msgid "Like us on Facebook"
+msgstr ""
+
+#: ../framework/widgets/widget_social_links.php:73
+msgid "Join us on Google+"
+msgstr ""
+
+#: ../framework/widgets/widget_social_links.php:78
+msgid "Subscribe RSS Feeds"
+msgstr ""
+
+#: ../framework/widgets/widget_social_links.php:83
+msgid "Contact us"
+msgstr ""
+
+#: ../framework/widgets/widget_social_links.php:132
+msgid "Twitter URL:"
+msgstr ""
+
+#: ../framework/widgets/widget_social_links.php:137
+msgid "Facebook URL:"
+msgstr ""
+
+#: ../framework/widgets/widget_social_links.php:142
+msgid "Google Plus URL:"
+msgstr ""
+
+#: ../framework/widgets/widget_social_links.php:147
+msgid "RSS URL:"
+msgstr ""
+
+#: ../framework/widgets/widget_social_links.php:152
+msgid "Contact Page URL:"
+msgstr ""
+
+#: ../framework/widgets/widget_subscribers_count.php:34
+msgid "Displays Facebook, Twitter and RSS subscribers number."
+msgstr ""
+
+#: ../framework/widgets/widget_subscribers_count.php:37
+msgid "Well Themes: Subscribers Counter"
+msgstr ""
+
+#: ../framework/widgets/widget_subscribers_count.php:95
+msgid "Facebook"
+msgstr ""
+
+#: ../framework/widgets/widget_subscribers_count.php:96
+msgid "Likes"
+msgstr ""
+
+#: ../framework/widgets/widget_subscribers_count.php:103
+msgid "Twitter"
+msgstr ""
+
+#: ../framework/widgets/widget_subscribers_count.php:104
+msgid "Followers"
+msgstr ""
+
+#: ../framework/widgets/widget_subscribers_count.php:120
+msgid "RSS"
+msgstr ""
+
+#: ../framework/widgets/widget_subscribers_count.php:121
+msgid "Subscribers"
+msgstr ""
+
+#: ../framework/widgets/widget_subscribers_count.php:167
+msgid "Show static RSS number:"
+msgstr ""
+
+#: ../framework/widgets/widget_subscribers_count.php:172
+msgid "RSS Link: (Leave blank to use default rss link)"
+msgstr ""
+
+#: ../framework/widgets/widget_subscribers_count.php:178
+msgid "Twitter Name"
+msgstr ""
+
+#: ../framework/widgets/widget_subscribers_count.php:183
+msgid "Facebook Page ID:"
+msgstr ""
+
+#: ../framework/widgets/widget_twitter.php:32
+msgid "A widget to display latest tweets in the sidebar or footer."
+msgstr ""
+
+#: ../framework/widgets/widget_twitter.php:35
+msgid "Well Themes: Latest Tweets"
+msgstr ""
+
+#: ../framework/widgets/widget_twitter.php:120
+msgid "Twitter username:"
+msgstr ""
+
+#: ../framework/widgets/widget_video.php:33
+msgid "Embed a video in the sidebar."
+msgstr ""
+
+#: ../framework/widgets/widget_video.php:36
+msgid "Well Themes: Featured Video"
+msgstr ""
+
+#: ../framework/widgets/widget_video.php:54
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../framework/widgets/widget_video.php:77
+msgid "Video Embed Code:"
+msgstr ""
